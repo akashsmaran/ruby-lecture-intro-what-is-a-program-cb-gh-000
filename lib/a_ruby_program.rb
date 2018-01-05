@@ -7,7 +7,7 @@ puts "the time now is "+ Time.now.to_s
 
 puts "Programs have flow."
 puts "Which means that you see this first"
-puts "and this next."
+puts "and this next. okay"
 
 puts "Lines of code are executed linearly, that's flow."
 puts "First come, first served."
@@ -19,5 +19,3 @@ puts "Literal pieces of data like this very sentence (or String)."
 puts "Finally, barewords, or variables, that are set equal to things."
 
 puts "Anything that isn't one of those will cause an error."
-
-see
